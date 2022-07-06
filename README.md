@@ -1,4 +1,10 @@
 # K-Mer-Counting
+
+Team Members :
+
+Anmoldeep Kaur Dhillon (2020101085)
+Aryan Gupta (2020101091)
+
 In bioinformatics, k-mers are substrings of length k contained within a biological sequence. <br />
 So, a sequence of length L will have L-k+1  k-mers and n^k total possible k-mers, where n is number of possible monomer.   <br />
 For a given K we count the number of all occurrences of K-mer in the sequence. <br />
