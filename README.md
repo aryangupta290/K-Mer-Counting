@@ -18,7 +18,10 @@ The file structure is as follows :
 a) baseline_large_dna.cpp : The baseline code for the case of small k (<15) and small data size (around 250 MB) .<br />
 b) baseline_small_k_large_dna.cpp : The baseline code for the case of small k (<15) and large data size (> 2GB) .<br />
 c) baseline_large_k.cpp : The baseline code for the case of small k (<15) and large data size (> 2GB) .<br />
-d) small_k_small_dna.cpp : The optimised code for small k and small dna.
-e) small_k_large_dna.cpp : The optimised code for small k and large dna.
+d) small_k_small_dna.cpp : The optimised code for small k and small dna.<br />
+e) small_k_large_dna.cpp : The optimised code for small k and large dna.<br />
 f) large_k.cpp : The optimised code for large k.<br />
-
+ 
+We obtained the following result for large and small data set respectively :
+<img src="small_k.png" alt="Alt text" title="Optional title">
+<img src="large_k.png" alt="Alt text" title="Optional title">
